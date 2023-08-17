@@ -1,0 +1,16 @@
+{
+  "hash": "eb2f19c7c7b6ef70ea11ac02c7fbdbe5",
+  "result": {
+    "markdown": "---\ntitle: \"Tutorial 4\"\nauthor: \"Arindam Baruah\"\nformat: html\neditor: visual\n---\n\n\n## Quarto\n\nQuarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.\n\n## Running Code\n\nWhen you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n\n::: {.cell .fig-cap-location-bottom layout-align=\"left\"}\n::: {.cell-output-display}\n![MPG Vs Weight of cars](index_files/figure-html/fig-corr-1.png){#fig-corr fig-align='left' width=672}\n:::\n:::\n\n\nThis is @fig-corr\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n```\n[1] 4\n```\n:::\n:::\n\n\nThe `echo: false` option disables the printing of code (only output is displayed).\n\n\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
